@@ -3,9 +3,6 @@
 		<title>text page</title>
 	</head>
 	<body>
-		<p>
-			Hello, this is Github!
-		</p>
+		<p>Hello, this is Github!</p>
 	</body>
-
 </html>
